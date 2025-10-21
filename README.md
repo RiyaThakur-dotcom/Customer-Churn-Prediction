@@ -107,5 +107,5 @@ print("Prediction:", "Churn" if pred == 1 else "No Churn")
 
 📫 Connect:
 📍 Author: Riya Thakur
-🔗 LinkedIn Profile: Riya Thakur
-💻 GitHub Repository: Customer Churn Prediction
+🔗 LinkedIn Profile: https://www.linkedin.com/in/riya-thakur-876571378
+💻 GitHub Repository: https://github.com/RiyaThakur-dotcom/Customer-Churn-Prediction
