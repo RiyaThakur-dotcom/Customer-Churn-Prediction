@@ -105,7 +105,7 @@ print("Prediction:", "Churn" if pred == 1 else "No Churn")
    • Month-to-month contracts, electronic checks, and no internet security → higher churn
    • Long-term contracts and automatic payments → lower churn
 
-📫 Connect
-   📍 Author: Riya Thakur
-   🔗 LinkedIn Profile
-   💻 GitHub Repository
+📫 Connect:
+📍 Author: Riya Thakur
+🔗 LinkedIn Profile: Riya Thakur
+💻 GitHub Repository: Customer Churn Prediction
